@@ -17,6 +17,12 @@ Python | NumPy | Scikit-learn | XGBoost | Streamlit
 
 ## ▶️ Run Locally
 ```bash
-pip install -r requirements.txt
+pip install -streamlit
+numpy
+scikit-learn
+xgboost
+pandas
+matplotlib
+
 streamlit run main.py
 
